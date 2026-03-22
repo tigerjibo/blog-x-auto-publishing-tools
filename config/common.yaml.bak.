@@ -1,0 +1,48 @@
+# blog-auto-publishing-tools 配置文件
+# 博哥定制配置 - 完整版
+
+# Chrome 驱动路径
+service_location: /usr/bin/google-chrome
+
+# Chrome 调试地址
+debugger_address: 127.0.0.1:9222
+
+# HTTP 探测地址
+http_probe_url: http://127.0.0.1:9222
+
+# 博客内容目录
+content_dir: /home/ubuntu/.openclaw/workspace/blogs
+
+# 文章标题
+title: AI 技术博客
+
+# 文章摘要
+summary: 分享 AI、编程、技术文章到多个平台
+
+# 是否包含自定义 footer
+include_footer: true
+
+# 自动发布（不经过人工 review）
+auto_publish: false
+
+# 是否等待页面登录
+wait_login: true
+
+# 等待登录时间（默认 2 分钟）
+wait_login_time: 120
+
+# Chrome 驱动类型
+driver_type: "chrome"
+
+# 启用平台配置
+enable:
+  csdn: True           # CSDN（推荐先测试）
+  jianshu: False        # 简书
+  juejin: False         # 掘金
+  zhihu: False          # 知乎
+  segmentfault: False    # SegmentFault
+  oschina: False        # OSChina
+  cnblogs: False        # 博客园
+  toutiao: False         # 头条
+  alicloud: False       # 阿里云
+  txcloud: False         # 腾讯云
