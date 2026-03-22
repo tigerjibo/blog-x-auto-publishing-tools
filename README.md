@@ -268,29 +268,6 @@ linux下面执行： setup.sh
 </tr>
 </table>
 
-# 加入讨论组
-
-如果你对这个工具有什么问题，欢迎加入讨论组,有订制需求欢迎加作者好友讨论。
-
-
-
-<table>
-  <thead>
-    <tr>
-  <th>交流群</th>
-  <th>我的微信</th>
-  </tr>
-</thead>
-<tr>
-<td align="center"><img  src="https://flydean-1301049335.cos.ap-guangzhou.myqcloud.com/img/202410080904305.png"></img></td>
-<td align="center"><img  src="https://flydean-1301049335.cos.ap-guangzhou.myqcloud.com/img/202408021732303.png"></img></td>
-</tr>
-</table>
-
-
-
-
-
 
 
 
