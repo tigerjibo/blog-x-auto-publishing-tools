@@ -17,7 +17,7 @@
 # blog-auto-publishing-tools博客自动发布工具
 博客自动发布工具，一键把你的博客发到CSDN,简书,掘金,知乎,头条,51blog,腾讯云,阿里云,公众号等等
 
-觉得有用的朋友，请给个star! ![Github stars](https://img.shields.io/github/stars/ddean2009/blog-auto-publishing-tools.svg)
+觉得有用的朋友，请给个star! ![Github stars](https://img.shields.io/github/stars/tigerjibo/blog-x-auto-publishing-tools.svg)
 
 # 介绍
 
@@ -249,9 +249,9 @@ linux下面执行： setup.sh
 </tr>
 </thead>
 <tr>
-<td align="center"><video  src="https://github.com/ddean2009/blog-auto-publishing-tools/assets/13955545/9e7e64b6-6dfa-424f-9f0a-d1099fd38288"></video></td>
-<td align="center"><video  src="https://github.com/ddean2009/blog-auto-publishing-tools/assets/13955545/92720a9a-ecd2-4cbf-9829-f69bf491002a"></video></td>
-<td align="center"><video  src="https://github.com/ddean2009/blog-auto-publishing-tools/assets/13955545/ed244aab-e5f5-4d2b-b07a-f4014e23ef4c"></video></td>
+<td align="center"><video  src="https://github.com/tigerjibo/blog-x-auto-publishing-tools/assets/13955545/9e7e64b6-6dfa-424f-9f0a-d1099fd38288"></video></td>
+<td align="center"><video  src="https://github.com/tigerjibo/blog-x-auto-publishing-tools/assets/13955545/92720a9a-ecd2-4cbf-9829-f69bf491002a"></video></td>
+<td align="center"><video  src="https://github.com/tigerjibo/blog-x-auto-publishing-tools/assets/13955545/ed244aab-e5f5-4d2b-b07a-f4014e23ef4c"></video></td>
 </tr>
 </table>
 
@@ -263,8 +263,8 @@ linux下面执行： setup.sh
 </tr>
 </thead>
 <tr>
-<td align="center"><video src="https://github.com/ddean2009/blog-auto-publishing-tools/assets/13955545/de46a2b6-f02b-41cc-8b6f-eda46b433454"></video></td>
-<td align="center"><video src="https://github.com/ddean2009/blog-auto-publishing-tools/assets/13955545/34f5d603-0779-42c7-8a82-3a7985af0293"></video></td>
+<td align="center"><video src="https://github.com/tigerjibo/blog-x-auto-publishing-tools/assets/13955545/de46a2b6-f02b-41cc-8b6f-eda46b433454"></video></td>
+<td align="center"><video src="https://github.com/tigerjibo/blog-x-auto-publishing-tools/assets/13955545/34f5d603-0779-42c7-8a82-3a7985af0293"></video></td>
 </tr>
 </table>
 

@@ -1,5 +1,5 @@
 ---
-name: blog-auto-publishing-tools
+name: blog-x-auto-publishing-tools
 description: 博客自动发布工具 - 自动化内容生成、格式化和发布流程
 metadata:
   {

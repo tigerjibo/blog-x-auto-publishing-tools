@@ -1,5 +1,5 @@
 #!/bin/bash
-# install-deps.sh - 安装 blog-auto-publishing-tools 的 Python 依赖
+# install-deps.sh - 安装 blog-x-auto-publishing-tools 的 Python 依赖
 
 echo "==================================="
 echo "安装 Python 依赖"
